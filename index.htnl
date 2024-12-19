@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trang chính</title>
+</head>
+<body bgcolor="#FFF5E1">
+<div style="background-color: pink; ">
+<headers>
+<h1 style="text-align: center;">GIỚI THIỆU BẢN THÂN</h1>
+	<p>vài thông tin về Thu Hằng</p>
+	</div>
+	<img src="hthui.jpeg" alt="Mô tả hình ảnh" width="300">
+<p>Mình là <strong> Phạm Thu Hằng</strong> là học sinh lớp <span style="color:red;">12A1</span> trường <span style="color:red;">Trung học Phổ Thông Hòn Gai</span>.Và sau đây là những thông tin về mình</p>
+<h2><strong>PHẠM THU HẰNG</strong></h2>
+<ul>
+<li></strong>Ngày sinh</strong>: 04/08/2007</li>
+<li>Quê quán: Hạ Long, Quảng Ninh</li>
+<li><dl>
+<dt>Sở thích:
+<dd> <a href="anuong.html">ăn uống</a></dd>
+<dd> <a href="hoctiengtrung.html">học tiếng trung</a></dd>
+<dd> đan len</dd>
+<dd> chăm sóc bản thân</dd>
+<dd> <a href="amnhac.html">nghe nhạc</a></dd>
+</dt>
+</dl>
+</ul>
+<h3>liên hệ
+<ul>
+<li>Facebook<a href="https://www.facebook.com/share/1DRwHGt1ag/?mibextid=LQQJ4d">Phạm Hằng</a></li>
+<li>Email: <strong>kaizo3579@gmail.com</strong></li>
+</ul>
+</h3>
+<h3>từng tham gia nhiều hoạt động của trường lớp từ cấp 2 tới hiện tại</h3>
+<video width="300" controls>
+<source src="vid1.MOV">
+</body>
+</html>
